@@ -24,6 +24,7 @@ O projeto ainda está em desenvolvimento e, após a finalização do projeto no 
 * [Node.js](https://nodejs.org/en/)
 * [Axios](https://axios-http.com)
 * [Prisma](https://www.prisma.io)
+* [Vite](https://vitejs.dev)
 * etc.
 
 ### Obsercações
