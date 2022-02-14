@@ -1,6 +1,6 @@
 # NLW 5 - Trilha React e Next.js
 
-<img src="./public/nlw-heat-impulse-logo.png" alt="Imagem Logo">
+<img src="./nlw-heat-impulse-logo.png" alt="Imagem Logo">
 
 > Projeto feito na [Next Level Week](nextlevelweek.com) Heat da [Rocketseat](https://www.rocketseat.com.br). No momento, ele está em desenvolvimento e seu progresso será atualizado sempre que tiver uma nova versão para apresentação. 
 <!-- > O projeto consiste em uma página para reprodução de um podcast chamado Podcastr.
